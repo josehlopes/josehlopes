@@ -8,12 +8,12 @@
 - 📚 Currently enhancing skills in System Development at Senai.
 
 ## GitHub Stats
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josehlopes&theme=tokyonight" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=josehlopes&theme=tokyonight" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josehlopes&layout=compact&langs_count=8&card_width=280&theme=tokyonight" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=josehlopes&layout=compact&langs_count=8&card_width=280&theme=tokyonight" />
   </a>
 </div>
 
