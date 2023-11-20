@@ -8,7 +8,7 @@
 - 📚 Currently enhancing skills in System Development at Senai.
 
 ## GitHub Stats
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: space-around;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=josehlopes&theme=tokyonight" />
   </a>
