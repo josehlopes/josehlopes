@@ -1,13 +1,13 @@
-# Hello, I'm José Henrique! 👋
+Olá, me chamo José Henrique! 👋
 
-## About Me
-- 👨‍💻 Student of System Development.
-- 🌟 Started my professional journey at the age of 14 in customer service.
-- 🎨 Completed a Design course at Gracom and worked as a designer at Decorart.
-- 💼 Became an IT Assistant at Suporte Informática during the 2020 pandemic.
-- 📚 Currently enhancing skills in System Development at Senai.
+Sobre Mim
+- 👨‍💻 Estudante de Desenvolvimento de Sistemas.
+- 🌟 Iniciei minha jornada profissional aos 14 anos no atendimento ao cliente.
+- 🎨 Concluí um curso de Design na Gracom e trabalhei como designer na Decorart durante a pandemia.
+- 💼 Tornei-me Assistente de TI na Suporte Informática em 2023.
+- 📚 Atualmente aprimorando as habilidades em Desenvolvimento de Sistemas no Senai.
 
-## GitHub Stats
+Estatísticas no GitHub
 <div align="center" style="display: flex; justify-content: space-around;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=josehlopes&theme=tokyonight" />
@@ -17,21 +17,21 @@
   </a>
 </div>
 
-## Skills
-- 💻 Solid foundation in programming.
-- 🚀 Proficient in Python, Java, SQL, and C.
-- 🔧 Tackle development challenges continuously and consistently.
+Habilidades
+- 💻 Base sólida em programação.
+- 🚀 Proficiente em Python, Java, SQL e C.
+- 🔧 Enfrento desafios de desenvolvimento de forma contínua e consistente.
 
-## Objectives
-- 🎓 Combining academic studies and practical experience.
-- 💡 Goal to actively participate in software development projects.
-- 🤝 Collaborate with teams passionate about technology.
+Objetivos
+- 🎓 Combinar estudos acadêmicos com experiência prática.
+- 💡 Participar ativamente de projetos de desenvolvimento de software.
+- 🤝 Colaborar com equipes apaixonadas por tecnologia.
 
-## Interests
-- 🌐 #SystemDevelopment #Programming #Technology #Innovation
-- 🎓 #Student #Junior #Internship
+Interesses
+- 🌐 #DesenvolvimentoDeSistemas #Programação #Tecnologia #Inovação
+- 🎓 #Estudante #Júnior #Estágio
 - 💻 #SQL #Java #Python #C
 
-## Contact
+Contato
 - 📧 josehenrique.s2002@hotmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/josé-henrique-silva-lopes-826981208/)
