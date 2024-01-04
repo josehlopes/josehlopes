@@ -13,8 +13,8 @@
 
 <h2>Sobre Mim!</h2>
 <p>- 👨‍💻 Estudante de Desenvolvimento de Sistemas.</p>
-<p>- 🌟 Iniciei minha jornada profissional aos 14 anos no atendimento ao cliente.</p>
-<p>- 🎨 Concluí um curso de Design na Gracom e trabalhei como designer na Decorart durante a pandemia.</p>
+<p>- 🌟 Iniciei minha jornada profissional aos 14 anos quando trabalhei com atendimento ao cliente.</p>
+<p>- 🎨 Concluí um curso de Design na Gracom e trabalhei como Designer na Decorart durante a pandemia.</p>
 <p>- 💼 Me tornei Assistente de TI na Suporte Informática em 2023.</p>
 <p>- 📚 Atualmente aprimorando as habilidades em Desenvolvimento de Sistemas no Senai</p>
 
