@@ -12,26 +12,26 @@
 <br>
 
 <h2>Sobre Mim!</h2>
-- 👨‍💻 Estudante de Desenvolvimento de Sistemas.
-- 🌟 Iniciei minha jornada profissional aos 14 anos no atendimento ao cliente.
-- 🎨 Concluí um curso de Design na Gracom e trabalhei como designer na Decorart durante a pandemia.
-- 💼 Tornei-me Assistente de TI na Suporte Informática em 2023.
-- 📚 Atualmente aprimorando as habilidades em Desenvolvimento de Sistemas no Senai
+<p>- 👨‍💻 Estudante de Desenvolvimento de Sistemas.</p>
+<p>- 🌟 Iniciei minha jornada profissional aos 14 anos no atendimento ao cliente.</p>
+<p>- 🎨 Concluí um curso de Design na Gracom e trabalhei como designer na Decorart durante a pandemia.</p>
+<p>- 💼 Me tornei Assistente de TI na Suporte Informática em 2023.</p>
+<p>- 📚 Atualmente aprimorando as habilidades em Desenvolvimento de Sistemas no Senai</p>
 
 - 🌐 No SENAI fiz trabalhos e projetos das seguintes tecnologias:
   
 - Java, Python, SQL, e C:
-    Possuo experiência trabalhando com Java, Python, SQL e C.
-    Estou familiarizado com Java, Python, SQL e C.
+    <p>Possuo experiência trabalhando com Java, Python, SQL e C.</p>
+    <p>Estou familiarizado com Java, Python, SQL e C.</p>
 - GitHub e Git:
-  Utilizo o GitHub e Git em meus projetos.
-  Tenho experiência com GitHub e Git.
+  <p>Utilizo o GitHub e Git em meus projetos.</p>
+  <p>Tenho experiência com GitHub e Git.</p>
 - VS Code e Figma:
-  Trabalho regularmente com VS Code e Figma em meus projetos.
-  Estou confortável usando VS Code e Figma.
+  <p>Trabalho regularmente com VS Code e Figma em meus projetos.</p>
+  <p>Estou confortável usando VS Code e Figma.</p>
 - Godot:
-    Já explorei o Godot em um projeto.
-    Tenho alguma experiência com o Godot.
+    <p>Já explorei o Godot em um projeto.</p>
+    <p>Tenho alguma experiência com o Godot.</p>
 
 
 <h2>Estatísticas do GitHub</h2>
