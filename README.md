@@ -50,7 +50,6 @@
 <div>
   <img  alt="Java" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img  alt="Python" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  alt="MySQL" height="50"width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQLh/MySQL-original.svg" />
   <img  alt="C" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img  alt="GitHub" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img  alt="VS Code" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
