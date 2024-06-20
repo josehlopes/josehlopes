@@ -15,14 +15,14 @@
 <p>- 👨‍💻 Estudante de Desenvolvimento de Sistemas.</p>
 <p>- 🌟 Iniciei minha jornada profissional aos 14 anos quando trabalhei com atendimento ao cliente.</p>
 <p>- 🎨 Concluí um curso de Design na Gracom e trabalhei como Designer na Decorart durante a pandemia.</p>
-<p>- 💼 Me tornei Assistente de TI na Suporte Informática em 2023.</p>
+<p>- 💼 Me tornei Técnico de informática na Suporte Informática em 2023.</p>
 <p>- 📚 Atualmente aprimorando as habilidades em Desenvolvimento de Sistemas no Senai</p>
 
 - 🌐 No SENAI fiz trabalhos e projetos das seguintes tecnologias:
   
-- Java, Python, SQL, e C:
-    <p>Possuo experiência trabalhando com Java, Python, SQL e C.</p>
-    <p>Estou familiarizado com Java, Python, SQL e C.</p>
+- Javascript, Java, Python, SQL, e C:
+    <p>Possuo experiência trabalhando com Javascript, Java, Python, SQL e C.</p>
+    <p>Estou familiarizado com Javascript, Java, Python, SQL e C.</p>
 - GitHub e Git:
   <p>Utilizo o GitHub e Git em meus projetos.</p>
   <p>Tenho experiência com GitHub e Git.</p>
@@ -56,6 +56,9 @@
   <img  alt="Figma" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img  alt="Git" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Godot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,cs" />
+  </p>
 </div>
 
 
