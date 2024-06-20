@@ -48,15 +48,7 @@
 <h2>Familiaridade com:</h2>
 
 <div>
-  <img  alt="Java" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img  alt="Python" height="50"width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img  alt="C" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img  alt="GitHub" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img  alt="VS Code" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img  alt="Figma" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img  alt="Git" height="50"width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Godot" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <p align="center">
+  <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,python,java,cpp,cs" />
   </p>
 </div>
