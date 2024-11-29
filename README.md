@@ -66,7 +66,6 @@
     <img src="https://skillicons.dev/icons?i=unity,java,spring,postgres,mysql,python,cs,&perline=7"/>
   </a>
 </p>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
