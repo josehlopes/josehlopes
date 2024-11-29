@@ -91,7 +91,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![]([![](https://visitcount.itsvg.in/api?id=josehlopes&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in))
+([![](https://visitcount.itsvg.in/api?id=josehlopes&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in))
   
 </div>
 
