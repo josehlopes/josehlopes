@@ -9,13 +9,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **Java, Springboot, PostgreSQL**
 
@@ -98,7 +91,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![]([![](https://visitcount.itsvg.in/api?id=josehlopes&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in))
   
 </div>
 
