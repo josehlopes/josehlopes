@@ -10,9 +10,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Springboot, PostgreSQL**
+- 🔭 I’m currently working on **C#, Unity, Python**
 
-- 🌱 I’m currently learning **to implement Clean Architecture and Domain-Driven Design (DDD) for Scalable Applications.**
+- 🌱 I’m currently learning **Game development**
   
 - 🎮 I have a strong interest in game development. So, I'm learning **Unity**.
 
