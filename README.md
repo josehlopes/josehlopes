@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  Transforming data into information and information into decisions.
+  Data, Technology and Game Development.
 </p>
 
 ---
@@ -17,28 +17,37 @@
 I am a MIS Analyst II with a professional focus on Data Analytics,
 Business Intelligence and data-driven decision-making.
 
-My interests include transforming raw data into meaningful insights,
-developing analytical solutions, automating processes and improving
-business performance through data.
+I am passionate about technology, programming and solving problems
+through data. Alongside my professional career, I also have a personal
+interest in software and game development, particularly as a creative
+and technical hobby.
 
 - Currently working as a **MIS Analyst II**.
 - Focused on **Data Analytics and Business Intelligence**.
-- Interested in **Data Engineering and Process Automation**.
-- Continuously improving my knowledge of data technologies.
-- Background and personal interest in software development.
+- Expanding my knowledge in **Data Engineering and Automation**.
+- Passionate about **Programming and Technology**.
+- Game development enthusiast, particularly interested in **Unity and C#**.
+- Committed to continuous learning and professional development.
 
 ---
 
 ## Areas of Interest
 
+### Professional
+
 - Data Analytics
 - Business Intelligence
-- Data Visualization
-- Data Modeling
+- Data Engineering
+- Data Modeling and Visualization
 - Performance Indicators (KPIs)
 - Reporting and Process Automation
-- Data Engineering
+
+### Personal
+
+- Game Development
 - Software Development
+- Game Design
+- Programming and Technology
 
 ---
 
@@ -57,24 +66,30 @@ business performance through data.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql,cs,java,spring" />
   </a>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 </p>
 
-### Software Development & Version Control
+### Game Development
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,java,spring,unity" />
+    <img src="https://skillicons.dev/icons?i=unity,cs" />
+  </a>
+</p>
+
+### Development Tools & Version Control
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
 ---
 
-## Professional Development
-
-I am continuously expanding my knowledge in:
+## Currently Learning
 
 - Advanced SQL and database management.
 - Data modeling and analytical best practices.
@@ -83,18 +98,38 @@ I am continuously expanding my knowledge in:
 - Data pipelines and ETL processes.
 - Data Engineering fundamentals.
 
+I also maintain an interest in exploring game development with
+Unity and C# through personal projects in the future.
+
 ---
 
 ## GitHub Statistics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=josehlopes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehlopes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=josehlopes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img
+    width="500"
+    src="https://github-readme-stats.vercel.app/api?username=josehlopes&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+
+  <br/>
+
+  <img
+    width="500"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehlopes&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+  <br/>
+
+  <img
+    width="500"
+    src="https://streak-stats.demolab.com/?user=josehlopes&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
 
 ---
 
@@ -107,13 +142,13 @@ I am continuously expanding my knowledge in:
   <a href="mailto:josehlopes.s2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/josehlopes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://discord.com/users/307296968781201409">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>Continuous learning. Analytical thinking. Data-driven decisions.</i>
+  <i>Driven by data, inspired by technology, and motivated by curiosity.</i>
 </p>
