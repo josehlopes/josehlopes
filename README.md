@@ -1,98 +1,119 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Header -->
+<h1 align="center">Hi, I'm Henrique</h1>
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Henrique</h1></summary>
-  </ul>
-</div>
+<h3 align="center">
+  MIS Analyst II | Data Analytics & Business Intelligence
+</h3>
 
-<!--Intro start-->
-- 🔭 I’m currently working on **C#, Unity, Python**
-
-- 🌱 I’m currently learning **Game development**
-  
-- 🎮 I have a strong interest in game development. So, I'm learning **Unity**.
-
-- 📫 Feel free to reach me out **josehlopes.s2002@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord – [N7 Paragon](https://discordapp.com/users/307296968781201409) my username!
-
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-<!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=josehlopes&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
-</td>
+  Transforming data into information and information into decisions.
+</p>
 
-<td width="50%" align="center">
+---
 
-  <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=josehlopes&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+## About Me
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=josehlopes&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+I am a MIS Analyst II with a professional focus on Data Analytics,
+Business Intelligence and data-driven decision-making.
 
-</p>        
-<!--- stats (end) -->
+My interests include transforming raw data into meaningful insights,
+developing analytical solutions, automating processes and improving
+business performance through data.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+- Currently working as a **MIS Analyst II**.
+- Focused on **Data Analytics and Business Intelligence**.
+- Interested in **Data Engineering and Process Automation**.
+- Continuously improving my knowledge of data technologies.
+- Background and personal interest in software development.
+
+---
+
+## Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Data Modeling
+- Performance Indicators (KPIs)
+- Reporting and Process Automation
+- Data Engineering
+- Software Development
+
+---
+
+## Technologies & Tools
+
+### Business Intelligence & Data Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+### Programming & Databases
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,java,spring,postgres,mysql,python,cs,&perline=7"/>
+    <img src="https://skillicons.dev/icons?i=python,postgres,mysql" />
+  </a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+</p>
+
+### Software Development & Version Control
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,cs,java,spring,unity" />
   </a>
 </p>
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
 
-<!--icons and links-->
+---
+
+## Professional Development
+
+I am continuously expanding my knowledge in:
+
+- Advanced SQL and database management.
+- Data modeling and analytical best practices.
+- DAX and Power Query.
+- Python for data analysis and automation.
+- Data pipelines and ETL processes.
+- Data Engineering fundamentals.
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-<a href="https://www.linkedin.com/in/josé-henrique-silva-lopes-826981208/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/jose.h06" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/307296968781201409" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=josehlopes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehlopes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </p>
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=josehlopes&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=josehlopes&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+## Connect with Me
 
-Last Edited on: 28/11/2024
+<p align="center">
+  <a href="https://www.linkedin.com/in/josé-henrique-silva-lopes-826981208/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:josehlopes.s2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/josehlopes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Continuous learning. Analytical thinking. Data-driven decisions.</i>
+</p>
